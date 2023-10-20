@@ -7,5 +7,6 @@ Folders:
 Noises and Mean_Filters:
   * Noises: Gaussian noise, Salt-and-Pepper noise
   * Mean Filters: Arithmetic mean filter, Geometric mean filter, Harmonic mean filter, Contraharmonic mean filter
+
 Order_Statistic_Filters:
   * Filters: Median filter, Max and Min filter, Midpoint filter, Alpha-Trimmed mean filter, Adaptive median filter
